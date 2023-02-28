@@ -70,15 +70,15 @@ public class Main {
 
 
     public static void printOne() {
-        System.out.print(" доставка занимает 1 день, расстояние (км):");
+        System.out.print(" доставка занимает 1 день,расстояние (км):");
     }
 
     public static void printTwo() {
-        System.out.print("доставка занимает 2 дня , расстояние (км):");
+        System.out.print("доставка занимает 2 дня ,расстояние (км):");
     }
 
     public static void printThree() {
-        System.out.print("доставка занимает 3 дня, расстояние(км):");
+        System.out.print("доставка занимает 3 дня,расстояние(км):");
     }
 
     public static void printFour() {
